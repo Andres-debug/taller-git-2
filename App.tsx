@@ -6,12 +6,6 @@ export default function App() {
     <View style={styles.container}>
       <Text>Hola Mundo</Text>
       <Text>Este emnsaje viene de una rama feature</Text>
-      <Text>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus
-        doloribus dolore molestiae numquam suscipit itaque totam obcaecati
-        atque, facilis saepe ut similique inventore ea aperiam voluptates
-        repellendus accusantium aspernatur? Dolore!
-      </Text>
     </View>
   );
 }
