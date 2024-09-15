@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Hola Mundo</Text>
+      <Text>Este emnsaje viene de una rama feature</Text>
     </View>
   );
 }
